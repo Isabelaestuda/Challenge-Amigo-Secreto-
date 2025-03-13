@@ -13,6 +13,8 @@
 
 
 Este projeto foi criado como parte de conclusão de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. Sua proposta é tornar o sorteio de amigo secreto mais simples, ágil e organizado, proporcionando uma experiência divertida para grupos de amigos, famílias e colegas de trabalho.
+
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🕹 <ins>**FUNCIONALIDADES**</ins>
